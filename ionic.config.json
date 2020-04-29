@@ -1,0 +1,7 @@
+{
+  "name": "intergroup",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
